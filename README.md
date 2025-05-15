@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 👤 Actualmente soy estudiante de 4to año en Ing. en Informática.<br>🔭 Cada día intento avanzar un poco mas.<br>👨‍💻 Freelancer.<br>🌱 "Nunca hay desanimar a nadie que continuamente hace progresos, <br>       no importa lo lento que vaya"
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jmonroys17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joainmonroy12@gmail.com) 
 
 # 💻 Tech Stack:
